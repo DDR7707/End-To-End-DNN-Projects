@@ -5,3 +5,5 @@
 2 . German Traffic Signs Classification (CNN). (97.14 on Bitbucket)
 
 3 . MNIST Dataset Classification (CNN).  (99 on Keras)
+
+4 . Electric Power Prediction (ANN).   (Udmey / UCI) 
